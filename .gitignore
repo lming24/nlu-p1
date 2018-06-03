@@ -1,0 +1,15 @@
+snapshots
+snapshots/
+__pycache__
+__pycache__/
+data/
+data
+dataset.pkl
+word_to_id.pkl
+sentencecontinuation.pkl
+test.pkl
+data/sentences.train
+data/wordembeddings-dim100.word2vec
+data/sentences.train
+data/wordembeddings-dim100.word2vec
+data/*
